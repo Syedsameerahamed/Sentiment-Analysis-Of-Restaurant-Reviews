@@ -5,12 +5,12 @@ This project focuses on performing sentiment analysis on restaurant reviews to c
 ### Dataset: Restaurant review dataset
 ### Algorithms: Multinomial Naive Bayes, Bernoulli Naive Bayes, Logistic Regression
 ### Text Preprocessing: Tokenization, stopword removal, punctuation removal, stemming
-V### isualization: Sentiment distribution displayed via pie chart
-##Project Highlights:
+### Visualization: Sentiment distribution displayed via pie chart
+## Project Highlights:
 Achieved an accuracy of 76.5%.
 Preprocessing done using NLP techniques.
 Results presented in a clear visual format to showcase sentiment.
-##Usage:
+## Usage:
 Clone the repository.
 Install required libraries (scikit-learn, NLTK).
 Load the dataset and run the model.
