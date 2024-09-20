@@ -1,4 +1,4 @@
-# Sentiment-Analysis-Of-Restaurant-Reviews
+# Sentiment Analysis of Restaurant Reviews
 This project focuses on performing sentiment analysis on restaurant reviews to classify them as positive, negative, or neutral. Using machine learning algorithms like Multinomial Naive Bayes, Bernoulli Naive Bayes, and Logistic Regression, the model predicts the sentiment of reviews with an accuracy of 76.5%.
 
 ## Features:
